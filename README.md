@@ -1,9 +1,5 @@
-# Clone or navigate to your GitHub profile repository
-git clone https://github.com/moshaosama/moshaosama.git
-cd moshaosama
 
-# Create a README.md file
-echo "# Hi there! 👋 I'm Mohamed Osama  
+# Hi there! 👋 I'm Mohamed Osama  
 Welcome to my GitHub profile! I'm a **Full Stack Developer** with expertise in **MERN** and **MEAN** stacks, and I enjoy building efficient and scalable web applications.
 
 ---
@@ -70,7 +66,3 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with expertise in *
 ## 🌐 Connect with Me  
 - GitHub: [moshaosama](https://github.com/moshaosama)  
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/moshaosama)  
-
----
-
-Feel free to explore my repositories and reach out for collaboration or discussion! 😊"
