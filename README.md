@@ -26,19 +26,12 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with expertise in *
 
 ### Backend  
 - Node.js  
-- Express.js  
-- Spring Boot  
+- Express.js    
 
 ### Database  
 - MongoDB  
 - PostgreSQL  
 - SQL  
-
-### DevOps & Other Tools  
-- Git/GitHub  
-- Dialogflow/Rasa  
-- Monitor (for project management)
-
 ---
 
 ## 🌟 Notable Projects  
