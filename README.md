@@ -50,18 +50,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with expertise in *
    - Full-stack project with **React**, **Node.js**, and **MongoDB**.  
    - Implemented payment gateway integration and admin dashboard.  
 
-3. **Medical Chatbot System**  
-   - Frontend developed using **Angular**.  
-   - Integrated **Dialogflow** for chatbot AI.
-
----
-
-## 📚 Current Focus  
-- Revisiting **HTML** through documentation study.  
-- Preparing for a **Shopify-like project** with innovative features.  
-- Enhancing English communication skills.  
-
----
 
 ## 🌐 Connect with Me  
 - GitHub: [moshaosama](https://github.com/moshaosama)  
