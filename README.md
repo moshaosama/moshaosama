@@ -4,10 +4,13 @@
 
 <p align="left">I'm Mohamed Osama, Full Stack Developer with 2+ years of hands-on experience in both MERN and MEAN stacks, with a strong focus on building scalable, responsive, and user-friendly web applications. Proficient in developing robust frontend interfaces using React.js, Angular, and Next.js, and in designing secure, efficient backend services with Node.js, Express, Nest.js, and Spring Boot. Skilled in state management (Redux, Context API, React Query), API integration, and real-time data handling. Passionate about delivering highquality code, optimizing performance, and solving complex problems. Continuously learning and adapting to new technologies, with proven ability to work in fast-paced, collaborative environments..</p>
 
-###
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
-###
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=m-a-badawy&label=Profile%20views&color=0e75b6&style=flat" alt="m-a-badawy" /> 
+</p>
 
 ###
 
