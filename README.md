@@ -48,18 +48,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="8" />
   <p align="left">
+    <img src="https://img.shields.io/badge/react-i18next-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react-i18next" />
+     <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=for-the-badge&logo=&logoColor=white" alt="TanStack Query" />
+    <img src="https://img.shields.io/badge/Redux Thunk-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Thunk" />
+     <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=for-the-badge&logo=&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Monorepo-000000?style=for-the-badge&logo=&logoColor=white" alt="Monorepo" />
-  <img src="https://img.shields.io/badge/react-i18next-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react-i18next" />
-  <img src="https://img.shields.io/badge/Redux Thunk-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Thunk" />
   <img src="https://img.shields.io/badge/Puppeteer-000000?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
   <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
-
+<h3 align="left">Familiar With</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </p>
-
+<h3 align="left">Personal Skills</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Self Learning-FFAA00?style=for-the-badge" alt="Self Learning" />
   <img src="https://img.shields.io/badge/Problem Solving-0A0A0A?style=for-the-badge&logo=&logoColor=white" alt="Problem Solving" />
