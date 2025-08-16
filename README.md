@@ -47,14 +47,18 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="8" />
-  <span style="font-size: 16px;">Tailwind – Socket.io – TanStack Query – Redux Toolkit – Vite – Monorepo – react-i18next – Redux Thunk – Puppeteer – Playwright</span>
-</div>
-
-<h3 align="left">Familiar With</h3>
-<p align="left">Angular – jQuery – Java – Spring Boot – Python – Data Analysis – Pandas – Matplotlib</p>
-
-<h3 align="left">Personal Skills</h3>
-<p align="left">Self Learning – Problem Solving – Team Work – Attention to Details</p>
+  <p align="left">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=for-the-badge&logo=&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Monorepo-000000?style=for-the-badge&logo=&logoColor=white" alt="Monorepo" />
+  <img src="https://img.shields.io/badge/react-i18next-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react-i18next" />
+  <img src="https://img.shields.io/badge/Redux Thunk-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Thunk" />
+  <img src="https://img.shields.io/badge/Puppeteer-000000?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+</p>
 
 ###
 
