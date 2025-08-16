@@ -98,7 +98,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://drive.google.com/file/d/1zp8ILdrUBg8n4K8NoQCOH57gdbSh9XHG/view?usp=drivesdk" target="_blank">
-    <img src="https://media1.thehungryjpeg.com/thumbs2/800_3684407_ei2euz2s8q6tp71wrmig7sdvynx2b87a59zudnox_cv-monogram-logo-design.jpg" height="20" alt="linkedin logo"  />
+    <img src="https://media1.thehungryjpeg.com/thumbs2/800_3684407_ei2euz2s8q6tp71wrmig7sdvynx2b87a59zudnox_cv-monogram-logo-design.jpg" height="40" weight="200" alt="linkedin logo"  />
   </a>
 </div>
 
