@@ -10,11 +10,11 @@
 <h2 align="left">TECH STACK</h2>
 
 <p align="center"> 
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding" width="400">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding" width="700">
 </p>
 
 <div align="left">
-  <!-- Main Tech Stack -->
+  <!-- Main Tech Stack with icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -47,11 +47,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="40" alt="puppeteer logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright logo"  />
-  <img width="8" />
-  <span style="font-size: 16px;">Tailwind – Socket.io – TanStack Query – Redux Toolkit – Vite – Monorepo – react-i18next – Redux Thunk</span>
+  <span style="font-size: 16px;">Tailwind – Socket.io – TanStack Query – Redux Toolkit – Vite – Monorepo – react-i18next – Redux Thunk – Puppeteer – Playwright</span>
 </div>
 
 <h3 align="left">Familiar With</h3>
