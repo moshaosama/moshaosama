@@ -1,93 +1,102 @@
 <h1 align="center">Mohamed Osama</h1>
-<h3 align="center">Full Stack Developer | MERN & MEAN | Scalable Web Apps</h3>
+<h3 align="center">Software Engineer | Full Stack & Mobile Developer</h3>
 
 <p align="center">
-Full Stack Developer with 2+ years of experience building scalable, high-performance web applications using modern technologies.
-I focus on clean architecture, performance optimization, and delivering real-world solutions.
+🚀 Building scalable web & mobile applications | AI-powered systems | Real-time platforms
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=moshaosama&label=Profile%20views&color=0e75b6&style=flat" /> 
+<p align="center">
+  <a href="https://github.com/moshaosama">
+    <img src="https://komarev.com/ghpvc/?username=moshaosama&label=Profile%20views&color=0e75b6&style=flat"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Building **scalable & production-ready applications**
-- ⚡ Strong in **React, Next.js, Node.js, NestJS**
-- 🔄 Experience with **real-time apps & API integrations**
-- 🧪 Currently learning **Testing, Automation & AI**
-- 🎯 Focused on becoming a **high-level software engineer**
+- 💻 Full Stack Developer with **2+ years of experience**
+- ⚡ Specialized in **MERN / MEAN + React Native**
+- 🤖 Building **AI-powered systems & automation workflows**
+- 🔄 Strong in **real-time apps, APIs & scalable architecture**
+- 📱 Published **production mobile apps (iOS & Android)**
+- 🎯 Focused on building **end-to-end systems (idea → deployment)**
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center"> 
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600">
+### 👨‍💻 Core
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
 </p>
 
-### Core
+### ⚙️ Tools & Libraries
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35"/>
 </p>
 
-### Tools & Libraries
+### 🚀 Advanced
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35"/>
-</p>
-
-### Advanced
-<p align="center">
-<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Puppeteer-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Puppeteer-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 Familiar With
+## 🏆 Featured Projects
 
-<p align="center">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+### 🔹 AutoCycle – Auto Parts Marketplace
+Full-stack e-commerce platform with Admin, Vendor & User dashboards + AI recommendations  
+🔗 https://voyapex.vercel.app/en  
 
 ---
 
-## 🧩 Skills
-
-<p align="center">
-<img src="https://img.shields.io/badge/Problem Solving-0A0A0A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean Code-1ABC9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Team Work-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Attention to Details-FF5722?style=for-the-badge"/>
-</p>
+### 🔹 Genius – AI Learning Platform (Web + Mobile)
+AI-powered education system with Zoom SDK, payments & progress tracking  
+📱 Built for iOS & Android  
 
 ---
 
-## 📊 GitHub Activity
+### 🔹 Medi-Pulse – Medical System
+Role-based system (Admin / Doctor / Patient) + AI chatbot + JWT auth  
+🔗 https://graduation-project-jet.vercel.app/
+
+---
+
+### 🔹 MyFolio – No-Code Portfolio Builder
+Drag & drop builder with CI/CD automation  
+🔗 https://my-folio-iota-eight.vercel.app/
+
+---
+
+### 🔹 AI ChatBot
+Real-time chatbot with smart responses & automation  
+🔗 https://chat-bot-plum-nine.vercel.app/
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moshaosama&show_icons=true&theme=dark&hide_border=true" height="150"/>
@@ -102,11 +111,11 @@ I focus on clean architecture, performance optimization, and delivering real-wor
   <a href="https://www.linkedin.com/in/thisfekry/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1zp8ILdrUBg8n4K8NoQCOH57gdbSh9XHG/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge"/>
+  <a href="https://portfolio-ten-cyan-80.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-⭐ Always learning. Always building.
+⭐ Always building scalable systems & exploring AI-powered solutions.
